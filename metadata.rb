@@ -10,3 +10,5 @@ supports 'centos'
 supports 'scientific'
 supports 'amazon'
 supports 'fedora'
+
+depends 'yum-epel'
